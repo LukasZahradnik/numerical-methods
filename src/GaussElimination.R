@@ -1,5 +1,5 @@
 GaussElimination <- function(A, b) {
-    # Computes the sample covariance between two vectors.
+    #
     #
     # Args:
     #   A: The matrix of left side.
@@ -13,8 +13,8 @@ GaussElimination <- function(A, b) {
     for(i in 1:(n - 1)) {
         for(j in (i + 1):n) {
             k <- -A[j, i]/A[i, i]
-            b[j] = b[i] * k + b[j]
-            A[j,] = A[i,] * k + A[j,]
+            b[j] <- b[i] * k + b[j]
+            A[j,] <- A[i,] * k + A[j,]
         }
     }
 }
