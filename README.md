@@ -7,5 +7,6 @@ Basic numerical methods for study purposes.
 * Least Squares
 * Monte Carlo Methods
 * Newton
+* Simpson's rule
 
 _more will be added_
