@@ -7,7 +7,7 @@ Bisection <- function(f, a, b) {
     #   b: The right bound
     #
     # Returns:
-    #   The root of function
+    #   The root of the function f
     
     if(f(a) * f(b) < 0) {
         while(TRUE) {
@@ -16,4 +16,6 @@ Bisection <- function(f, a, b) {
             ifelse(f(a) * f(c) < 0, b <- c, a <- c)
         }
     }
+    
+    return(FALSE)
 }
