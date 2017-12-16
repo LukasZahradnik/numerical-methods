@@ -8,7 +8,7 @@ Lagrange <- function(x, y, act) {
     #
     # Returns:
     #   The y coord for given x (act) value
-
+    
     n <- length(x)
     res <- 0
     
