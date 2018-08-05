@@ -1,6 +1,4 @@
 Simpson <- function(f, a, b, n = 1) {
-    #
-    #
     # Args:
     #   f: The function.
     #   a: The left bound.

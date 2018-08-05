@@ -1,6 +1,4 @@
 FixedPoint <- function(f, a, tolerance = 10e-10) {
-    #
-    #
     # Args:
     #   f: The function
     #   a: The starting x coord

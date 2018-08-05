@@ -1,6 +1,4 @@
 Newton <- function(f, d, x) {
-    #
-    #
     # Args:
     #   f: The function.
     #   d: The derivation of f function.

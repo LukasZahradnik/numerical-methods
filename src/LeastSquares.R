@@ -1,6 +1,4 @@
 LeastSquares <- function(x, y) {
-    #
-    #
     # Args:
     #   x: The vector of x values of points.
     #   y: The vector of y values of points.

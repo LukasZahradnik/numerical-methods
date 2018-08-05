@@ -12,7 +12,4 @@ Basic numerical methods for study purposes.
 * Newton
 * Regula Falsi
 * Simpson
-* Tridiagonal Matrix
 * Vandermonde
-
-_more will be added_

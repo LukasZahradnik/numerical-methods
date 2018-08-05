@@ -1,6 +1,4 @@
 Lagrange <- function(x, y, act) {
-    #
-    #
     # Args:
     #   x: The array of points x coords to interpolate.
     #   y: The array of points y coords to interpolate.

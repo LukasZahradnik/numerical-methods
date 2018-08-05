@@ -1,6 +1,4 @@
 Bisection <- function(f, a, b) {
-    #
-    #
     # Args:
     #   f: The function
     #   a: The left bound

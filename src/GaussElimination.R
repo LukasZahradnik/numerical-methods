@@ -1,6 +1,4 @@
 GaussElimination <- function(A, b) {
-    #
-    #
     # Args:
     #   A: The matrix of left side.
     #   b: The vector of right side.
